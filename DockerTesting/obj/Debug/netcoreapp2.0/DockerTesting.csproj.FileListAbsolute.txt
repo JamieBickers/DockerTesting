@@ -1,0 +1,11 @@
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\bin\Debug\netcoreapp2.0\DockerTesting.deps.json
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\bin\Debug\netcoreapp2.0\DockerTesting.runtimeconfig.json
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\bin\Debug\netcoreapp2.0\DockerTesting.runtimeconfig.dev.json
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\bin\Debug\netcoreapp2.0\DockerTesting.dll
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\bin\Debug\netcoreapp2.0\DockerTesting.pdb
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.csproj.CoreCompileInputs.cache
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.AssemblyInfoInputs.cache
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.AssemblyInfo.cs
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.dll
+c:\users\jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.pdb
+C:\Users\Jamie\source\repos\DockerTesting\DockerTesting\obj\Debug\netcoreapp2.0\DockerTesting.csprojResolveAssemblyReference.cache

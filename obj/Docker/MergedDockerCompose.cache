@@ -1,0 +1,11 @@
+services:
+  dockertesting:
+    build:
+      context: C:\Users\Jamie\source\repos\DockerTesting
+      dockerfile: DockerTesting/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: dockertesting
+    ports:
+    - 80/tcp
+version: '3.0'
